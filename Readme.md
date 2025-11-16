@@ -1,7 +1,3 @@
-Here is a clean and professional **README.md** for your Customer Churn Prediction Streamlit project.
-
----
-
 # 📊 Customer Churn Prediction App
 
 This project is a **Streamlit web application** that predicts whether a banking customer is likely to **churn** (close their account).
